@@ -22,4 +22,4 @@ This is a continuation of my ML journey — now diving deep into neural networks
 
 ### `Day 1 ✅ Completed`
 ```text
-██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2.5%
+██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 2%
