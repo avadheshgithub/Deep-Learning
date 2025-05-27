@@ -1,4 +1,4 @@
-# 🧠 80 Days of Deep Learning Challenge
+# 🧠 80 Days of Deep Learning Challenges
 
 ![GitHub](https://img.shields.io/badge/Deep_Learning-Challenge-blueviolet?style=for-the-badge&logo=tensorflow)
 ![Days Completed](https://img.shields.io/badge/Days_Completed-2%2F80-success?style=for-the-badge)
