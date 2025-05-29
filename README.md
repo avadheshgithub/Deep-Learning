@@ -14,7 +14,7 @@ This is a continuation of my ML journey — now diving deep into neural networks
 
 > 📅 Duration: 80 Days  
 > 📚 Goal: Build a deep understanding of ANN, CNN, RNN, GANs, and beyond everything .
-> 🧩 Includes projects,tutorials,and daily learning.  
+> 🧩 Includes projects,tutorials,and daily learnings.  
 
 ---
 
