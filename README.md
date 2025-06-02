@@ -10,11 +10,11 @@
 ## 🚀 Overview
 
 Welcome to my **80 Days of Deep Learning Challenge**!  
-This is a continuation of my ML journey — now diving deep into neural networks, frameworks, and advanced architectures.
+This continues my ML journey — diving deep into neural networks, frameworks, and advanced architectures.
 
 > 📅 Duration: 80 Days  
-> 📚 Goal: Build a deep understanding of ANN, CNN, RNN, GANs, and beyond everything .
-> 🧩 Includes projects,tutorials,and daily learning.  
+> 📚 Goal: Build a deep understanding of ANN, CNN, RNN, GANs, and beyond everything.
+> 🧩 Includes projects, tutorials, and daily learning.  
 
 ---
 
